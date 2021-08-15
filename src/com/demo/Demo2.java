@@ -5,6 +5,5 @@ public class Demo2 {
         System.out.println("1111");
         int a = 1;
         int b = 2;
-        System.out.println(a + b);
     }
 }
